@@ -1,4 +1,4 @@
-![logo](https://github.com/RmidaAlaa/RmidaAlaa/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
+![logo](https://github.com/RmidaAlaa/RmidaAlaa/blob/main/Black%20and%20Blue%20Abstract%20LinkedIn%20banner.png)
 <h1 align="center">Hi 👋, I'm Ala RMIDA</h1>
 <h3 align="center">A passionate embedded Software engineer from Tunisia</h3>
 
