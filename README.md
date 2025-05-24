@@ -40,8 +40,8 @@
   <a href="https://linkedin.com/in/rmida ala" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:ala.rmida.98@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="Gmail" height="30" width="40" />
+  <a href="https://www.researchgate.net/profile/Ala-Rmid?ev=hdr_xprf" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" />
   </a>
 </p>
 
