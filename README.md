@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Ala RMIDA</h1>
 <h3 align="center">A passionate embedded Software engineer from Tunisia</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgwODUwMDcsIm5iZiI6MTc0ODA4NDcwNywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI0VDExMDUwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5ZTc0NjQxYThmYWQ1ODg3YmJiMmQ1NGE4MmJiMTg0YTc1NDg2YWM2N2ExNWE5NmM1MGQ2YzA0NGI1ZjljMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DVmJBhyyvydn7tEcbLUMINX18T5yA9lecDgkWoOmKio">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmidaalaa&label=Profile%20views&color=0e75b6&style=flat" alt="rmidaalaa" /> </p>
 
-- 🔭 I’m currently working as an embedded systems engineer and a phd student in IA, IOT and Influencer marketing.
+- 🔭 I am currently working as an Embedded Systems Engineer and pursuing a PhD focused on Artificial Intelligence, IoT, and Influencer Marketing.
 
 - 👨‍💻 All of my projects are available at [https://github.com/RmidaAlaa](https://github.com/RmidaAlaa)
 
