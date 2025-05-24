@@ -11,13 +11,15 @@
 
 - 📫 How to reach me **ala.rmida.98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AsQwCxVAe-2CKVqc1t4hahHlsHX7w0_X/view?usp=drive_link](https://drive.google.com/file/d/1AsQwCxVAe-2CKVqc1t4hahHlsHX7w0_X/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rmida ala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rmida ala" height="30" width="40" /></a>
-<a href="https://fb.com/ala rmida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ala rmida" height="30" width="40" /></a>
-</p>
+<a href="mailto:ala.rmida.98@gmail.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="Gmail" height="30" width="40" />
+</a>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -50,9 +52,11 @@
   </a>
 
   <!-- Hardware Platforms -->
-  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/STM32_logo.svg" alt="STM32" width="40" height="40"/>
-  </a>
+ <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/STM32_logo.svg" alt="STM32" width="40" height="40"/>
+  <span style="font-family: Arial, sans-serif; font-size: 14px; color: #000;">STM32</span>
+</a>
+
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
   </a>
