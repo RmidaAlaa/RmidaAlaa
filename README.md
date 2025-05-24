@@ -53,7 +53,7 @@
 
   <!-- Hardware Platforms -->
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer" >
-  <img src="https://raw.githubusercontent.com/RmidaAlaa/RmidaAlaa/main/Images/STM32BrandImage.png" alt="STM32" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/RmidaAlaa/RmidaAlaa/main/Images/STM32BrandImage.svg" alt="STM32" width="40" height="40"/>
 
 </a>
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
