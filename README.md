@@ -52,11 +52,10 @@
   </a>
 
   <!-- Hardware Platforms -->
- <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/STM32_logo.svg" alt="STM32" width="40" height="40"/>
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/RmidaAlaa/RmidaAlaa/main/Images/STM32BrandImage.png" alt="STM32" width="40" height="40"/>
   <span style="font-family: Arial, sans-serif; font-size: 14px; color: #000;">STM32</span>
 </a>
-
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
   </a>
