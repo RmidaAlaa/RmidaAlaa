@@ -3,7 +3,7 @@
 
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Ala RMIDA</h1>
-<h3 align="center">Embedded Systems Engineer | PhD Researcher in AI, IoT & Influencer Marketing</h3>
+<h3 align="center">Embedded Systems Engineer, IA and IOT enthuastic</h3>
 
 <!-- Animation -->
 <img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
